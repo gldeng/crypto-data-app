@@ -1,0 +1,4 @@
+flask
+flask-redis
+redis
+flask-restful
